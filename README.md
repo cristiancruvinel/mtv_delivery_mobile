@@ -46,7 +46,6 @@ Certifique-se de que as seguintes imagens estejam na pasta `assets/images/`:
 | Produto             | Nome do Arquivo           |
 |---------------------|----------------------------|
 | Pizza               | `pizza.png`               |
-| Macarronada         | `macarronada.png`         |
 | Hamburguer          | `hamburguer.png`          |
 | Brownie com Sorvete | `brownie_sorvete.png`     |
 | Suco de Laranja     | `suco_laranja.png`        |
